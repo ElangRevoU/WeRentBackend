@@ -177,6 +177,16 @@ Ringkasan endpoint:
 
 ---
 
+## 📷 Screenshot
+
+1. ERD
+![ERD](ERD-WeRent.png)
+2. Swagger
+![Swagger](Swagger-WeRent.png)
+![Swagger](Swagger-WeRent-2.png)
+![Swagger](Swagger-WeRent-3.png)
+![Swagger](Swagger-WeRent-4.png)
+
 ## 📤 Deployment
 
 Backend di-deploy menggunakan Render.
